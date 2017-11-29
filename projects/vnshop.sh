@@ -2,8 +2,8 @@
  
 WEB_PATH='/home/wwwroot/vnshop/x-shop-master'
 WEB_PATH_CLIENT='/home/wwwroot/vnshop/x-shop-master/client'
-WEB_USER='www'
-WEB_USERGROUP='www'
+WEB_USER='root'
+WEB_USERGROUP='root'
  
 echo "Start deployment wang.itnote.cn"
 cd $WEB_PATH
